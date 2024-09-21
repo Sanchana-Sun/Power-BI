@@ -4,8 +4,9 @@ Project 1: Basic
 **Coca-Cola Sales Dashboard**
 This Power BI dashboard provides a comprehensive analysis of sales performance for a soft drink retailer, including brands such as Coca-Cola, Dasani Water, Diet Coke, Fanta, Powerade, and Sprite. It allows users to explore key sales metrics and make data-driven decisions.
 
-**Key Features:
-KPIs Tracked:**
+**Key Features:**
+
+**KPIs Tracked:**
 **Revenue Analysis:** Total sales revenue across different products and regions.
 **Sum of Units Sold:** The total number of units sold for each product.
 **Average Price per Unit:** Calculated to understand pricing trends.
