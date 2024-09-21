@@ -1,5 +1,5 @@
 # Power-BI
-Project 1: Basic
+**Project 1: Basic**
 
 **Coca-Cola Sales Dashboard**
 
