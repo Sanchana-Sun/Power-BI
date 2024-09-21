@@ -31,3 +31,6 @@ Transformed the raw sales data by converting the month number into month names f
 Users can filter the data by retailer, enabling a focused analysis of sales metrics for each retailer individually.
 
 This dashboard is designed to offer actionable insights into product performance and market trends, making it a valuable tool for sales managers, regional analysts, and decision-makers.
+
+![image](https://github.com/user-attachments/assets/a6cd4e02-0d7b-4b8a-9427-8b24509aa513)
+
