@@ -1,4 +1,7 @@
 # Power-BI Projects
+
+(https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+
 **Project 1: Blinkit Grocery Sales**
 
 Check out the full project [here](https://app.powerbi.com/reportEmbed?reportId=c0e1ac82-1086-4cc8-bd07-ae85e50febea&autoAuth=true&ctid=65df6988-476e-454d-9c40-393bbe68634a).
