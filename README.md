@@ -37,6 +37,6 @@ This dashboard is designed to offer actionable insights into product performance
 
 **Project 2: Blinkit Grocery Sales**
 
-[See the full project here] (https://app.powerbi.com/reportEmbed?reportId=c0e1ac82-1086-4cc8-bd07-ae85e50febea&autoAuth=true&ctid=65df6988-476e-454d-9c40-393bbe68634a)
+[Check out the full project here] (https://app.powerbi.com/reportEmbed?reportId=c0e1ac82-1086-4cc8-bd07-ae85e50febea&autoAuth=true&ctid=65df6988-476e-454d-9c40-393bbe68634a)
 
 
