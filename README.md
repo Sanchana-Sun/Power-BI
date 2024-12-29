@@ -9,7 +9,16 @@ Check out the full project [here](https://app.powerbi.com/reportEmbed?reportId=c
 ![image](https://github.com/user-attachments/assets/eef85043-c434-4189-9eca-41edeada0b8e)
 
 
-**Project 2: Basic**
+**Project 2: Data Professional Salary**
+
+This is a real time data collected from people through a survey.
+
+Check out the full project [here](https://app.powerbi.com/reportEmbed?reportId=051090b0-e4a0-42a5-b2f7-55a1ddb614c2&autoAuth=true&ctid=65df6988-476e-454d-9c40-393bbe68634a).
+
+![image](https://github.com/user-attachments/assets/dfbd640f-80fd-41eb-84a5-950e96708bdc)
+
+
+**Project 3: Basic**
 
 Check out the full dashboard [here](https://app.powerbi.com/reportEmbed?reportId=18d956e1-460f-4820-b099-4915b1a64550&autoAuth=true&ctid=65df6988-476e-454d-9c40-393bbe68634a).
 
